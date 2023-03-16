@@ -317,14 +317,14 @@ header .navbar a:hover{
 
 .blogs .box-container .box h3{
     color:var(--green);
-    font-size: 2.5rem;
-    padding:5rem 0;
+    font-size: 2rem;
+    padding:2rem 0;
 }
 
 .blogs .box-container .box p{
     color:#666;
     font-size:1.5rem;
-    padding:.5rem 0;
+    padding:1rem 0;
 }
 
 .contact .row{
